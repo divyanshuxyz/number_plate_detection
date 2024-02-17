@@ -24,7 +24,8 @@ The License Plate Detection System is a software application designed to accurat
 - **Enhanced Safety Measures**: Proactively identifies vehicle-related issues to enhance safety.
 
 ## Dataset Link
-Link- https://www.kaggle.com/datasets/andrewmvd/car-plate-detection
+Link- 
+![](https://www.kaggle.com/datasets/andrewmvd/car-plate-detection)
 
 ## Installation
 
