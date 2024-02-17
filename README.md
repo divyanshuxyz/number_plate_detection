@@ -10,7 +10,8 @@ Vehicle number plate detection using Tensorflow
 
 
 # License Plate Detection Application
-
+## Video Link
+link- https://drive.google.com/file/d/1h5jN3UAImYyXAwxnP_iBHOzAq7ddBpqa/view?usp=sharing
 ## Introduction
 
 The License Plate Detection System is a software application designed to accurately identify and localize license plates within images. It facilitates real-time monitoring of vehicle movement and aids in traffic management and security on roads.
