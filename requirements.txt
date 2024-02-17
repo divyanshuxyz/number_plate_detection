@@ -1,0 +1,14 @@
+python
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+tensorflow
+opencv
+PIL
+easyocr
+glob
+sklearn
+xml
+os
