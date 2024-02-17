@@ -1,7 +1,9 @@
 # number_plate_detection
 Vehicle number plate detection using Tensorflow
-
-
+![https://github.com/divyanshuxyz/number_plate_detection/blob/main/snaps/1.png]
+![https://github.com/divyanshuxyz/number_plate_detection/blob/main/snaps/2.png]
+![https://github.com/divyanshuxyz/number_plate_detection/blob/main/snaps/3.png]
+![https://github.com/divyanshuxyz/number_plate_detection/blob/main/snaps/4.png]
 
 
 # License Plate Detection Application
@@ -16,6 +18,9 @@ The License Plate Detection System is a software application designed to accurat
 - **Real-time Monitoring**: Provides real-time monitoring and analysis of vehicle movement.
 - **Insights Generation**: Generates insights from collected data to improve traffic management.
 - **Enhanced Safety Measures**: Proactively identifies vehicle-related issues to enhance safety.
+
+## Dataset Link
+Link- https://www.kaggle.com/datasets/andrewmvd/car-plate-detection
 
 ## Installation
 
@@ -40,4 +45,4 @@ View the results, including the detected license plate and associated informatio
 -TensorFlow
 -OpenCV
 -Streamlit
-Easyocr
+-Easyocr
