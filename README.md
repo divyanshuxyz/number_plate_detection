@@ -1,13 +1,13 @@
 # number_plate_detection
 Vehicle number plate detection using Tensorflow
 
-![https://github.com/divyanshuxyz/number_plate_detection/blob/main/snaps/1.png]
+![](https://github.com/divyanshuxyz/number_plate_detection/blob/main/snaps/1.png)
 
-![https://github.com/divyanshuxyz/number_plate_detection/blob/main/snaps/2.png]
+![](https://github.com/divyanshuxyz/number_plate_detection/blob/main/snaps/2.png)
 
-![https://github.com/divyanshuxyz/number_plate_detection/blob/main/snaps/3.png]
+![](https://github.com/divyanshuxyz/number_plate_detection/blob/main/snaps/3.png)
 
-![https://github.com/divyanshuxyz/number_plate_detection/blob/main/snaps/4.png]
+![](https://github.com/divyanshuxyz/number_plate_detection/blob/main/snaps/4.png)
 
 
 # License Plate Detection Application
