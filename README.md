@@ -7,7 +7,6 @@ Vehicle number plate detection using Tensorflow
 
 ![](https://github.com/divyanshuxyz/number_plate_detection/blob/main/snaps/3.png)
 
-![](https://github.com/divyanshuxyz/number_plate_detection/blob/main/snaps/4.png)
 
 
 # License Plate Detection Application
